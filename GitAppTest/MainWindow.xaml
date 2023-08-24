@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label>Okay, here is your first change.</Label>
+        <Label>This was changed in the Web Interface, how does it look now?</Label>
     </Grid>
 </Window>
